@@ -1,0 +1,15 @@
+body {
+    background-color:#7EAD89;
+     border: dashed white 4px;
+    padding: 5px;
+}
+
+h1 {
+     border: solid white 4px;
+    padding: 5px;
+    color: white;
+}
+    
+p {
+    color: white;
+}
